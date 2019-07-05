@@ -1,1 +1,40 @@
+**Processing Data**
 
+This stage involves transforming the raw data to a state which is able to be analysed and observed in the context of this project. This stage involves several chronological steps which ensures that the data used is suitable for the conclusions drawn. 
+
+**Deduplicating data data**
+
+This step uses a program known as 'dedupe'. this program was downloaded using miniconda through the following command: 
+
+This step involves the removal of duplicate copies from the sequences. This will reduce the amount of reads and will leave each read as a unique read. 
+
+The scripts used to complete this step is listed below:
+
+ - ModernACAD-Oralmicrobial collapsed reads:
+ - modernacad oral Non-Collapsed reads
+ - HMP Data 
+
+**Low Complexity Removal**
+
+This step was completed using a program known as Komplexity which is able to be downloaded via miniconda using the following command: 
+
+This step involves the removal of any samples that have low complexity (as determined as below the threshold of (()(): this was the default selected). The removal of low complexity sequences will result in more concise matching to the annotated sequences further down the processing pipeline. 
+
+
+**Quality Assessment**
+
+This step was compleed using a FastQ and MultiQC. These were able to be loaded to miniconda using the following commands:
+
+This step was used to assess the quality of the sequences so as to ensure that the sequences are appropriate to continue with. This step allows for the identification of quality based on the following elements: 
+
+This step was completed using the following scripts:
+
+ - Modern acad oral Non-collapsed
+ - modern acad oral collapsed
+ - hmp paired end reads
+
+**Human DNA removal**
+
+This step used 'kneaddata' which was downloaded through the following scripts:
+
+This step is used to remove and human DNA from the sequences. this will ensure that the sequences ultimately used contain only viral, bacterial and archaic sequences, so as to ensure that there is lowered contamination of the 
