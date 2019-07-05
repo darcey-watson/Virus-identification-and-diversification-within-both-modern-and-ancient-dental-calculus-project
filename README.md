@@ -1,10 +1,13 @@
 # Viral-Content-Project
+
 Identifying viral content and diversity in ancient and modern dental calculus samples
 
 **Summary of Project**
+
 Investigating the viral content of both modern and ancient dental calculus samples collected from varying locations across the globe. Observing the diversity and complexity of the human oral virome and how these conditions have changed over time. 
 
 **Project Context**
+
 Track changes in viral population diversity and viral genomes dependent on time and geography 
 
 **Project Aims**
