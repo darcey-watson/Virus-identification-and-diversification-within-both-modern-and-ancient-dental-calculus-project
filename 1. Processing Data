@@ -32,4 +32,4 @@ This step was completed using the following scripts:
 **Human DNA removal**
 This step used 'kneaddata' which was downloaded through the following scripts:
 
-This step is used to remove and human DNA from the sequences. this will ensure that the sequences ultimately used contain only viral, bacterial and archaic sequences, so as to ensure that there is lowered contamination of the
+This step is used to remove and human DNA from the sequences. this will ensure that the sequences ultimately used contain only viral, bacterial and archaic sequences, so as to ensure that there is lowered contamination of the 
