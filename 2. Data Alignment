@@ -12,3 +12,9 @@ The script to run the MALTBuild and combine the above mentioned collection datab
 
 **Aligning Data with the Database**
 To align the modern data with the above created aligned database, MALT will again be used with its MALTrun funciton. This will result in ()(files that have compared the and aligned the modern data to the developed database so that each of the sequences in the modern data samples can be aligned to its closest annotated sequences from the database
+
+
+
+
+**Data Alignment**
+This stage of the project involved the aligning of the prviously processed modern data (uman oral acad and hmp) against a created database which involved HOMD, an accession database from the ncbi and a viral database as obtained from virusite via the following link:
