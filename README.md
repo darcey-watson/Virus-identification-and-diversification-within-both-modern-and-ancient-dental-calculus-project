@@ -22,14 +22,14 @@ Bioinformatic analysis techniques will be used to address the above listed aims.
 
 **Data**
  #### - ACAD Sequence Files
-	 - Received 38 dental calculus samples from modern Australian individuals, known as the Australian dataset.
+ - Received 38 dental calculus samples from modern Australian individuals, known as the Australian dataset.
  #### - HMP Sequence Files
-	 - sequence data obtained from the Human Microbiome Project, including data obtained from the three oral sites: Tongue Dorsum, Supragingival Plaque and Buccal Mucosa.
-	 - A total of 2 individuals with each of the above mentioned oral sites sampled were selected. The two individuals (6 samples total) were subsampled to 10 million reads using the following script:
-	 - This data will be known as the American dataset.
+- sequence data obtained from the Human Microbiome Project, including data obtained from the three oral sites: Tongue Dorsum, Supragingival Plaque and Buccal Mucosa.
+- A total of 2 individuals with each of the above mentioned oral sites sampled were selected. The two individuals (6 samples total) were subsampled to 10 million reads using the following script:
+- This data will be known as the American dataset.
  #### - Ancient ACAD Data
-	 - A total of 6 dental calculus samples from three locations across Greater London and surrounding areas dating back up to 2,000 years were selected. 
-	 - This data will be known as the Ancient dataset 
+- A total of 6 dental calculus samples from three locations across Greater London and surrounding areas dating back up to 2,000 years were selected. 
+- This data will be known as the Ancient dataset 
 
 **Comparative Data**
  - HOMD Data
