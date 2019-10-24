@@ -31,14 +31,6 @@ Bioinformatic analysis techniques will be used to address the above listed aims.
 - A total of 6 dental calculus samples from three locations across Greater London and surrounding areas dating back up to 2,000 years were selected. 
 - This data will be known as the Ancient dataset 
 
-**Comparative Data**
- - HOMD Data
-	 - To compare the ACAD Sequence files and HMP sequence files I have used the human oral microbiome database which i combined with:
- - Ncbi accession 
-	 - this file has annotated accession numbers from ncbi which are crossed with the HOMD data and allows for identification of any corresponding sequences within the experimental data
- - Virusite 
-	 - This online database is comprised of combined databases from ()()()()(()
-
 **Acknowledgements**
 
 My supervisors: Dr Laura Weyrich and Dr Raphael Eisenhofer Philipona 
