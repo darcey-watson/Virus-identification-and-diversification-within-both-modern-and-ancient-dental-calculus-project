@@ -26,6 +26,10 @@ Bioinformatic analysis techniques will be used to address the above listed aims.
  #### - HMP Sequence Files
 - sequence data obtained from the Human Microbiome Project, including data obtained from the three oral sites: Tongue Dorsum, Supragingival Plaque and Buccal Mucosa.
 - A total of 2 individuals with each of the above mentioned oral sites sampled were selected. The two individuals (6 samples total) were subsampled to 10 million reads using the following script:
+    
+      for i in *.fastq.gz; do seqtk sample -s 666 $i 10000000 > ${i/.fastq.gz/-10Mss.fastq}; done
+     
+     
 - This data will be known as the American dataset.
  #### - Ancient ACAD Data
 - A total of 6 dental calculus samples from three locations across Greater London and surrounding areas dating back up to 2,000 years were selected. 
