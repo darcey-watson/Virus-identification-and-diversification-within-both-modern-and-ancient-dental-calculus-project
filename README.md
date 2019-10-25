@@ -1,4 +1,4 @@
-# Viral-Content-Project
+# Virus identification and diversification within both modern and ancient dental calculus project
 
 ### Identifying viral content and diversity in ancient and modern dental calculus samples
 
